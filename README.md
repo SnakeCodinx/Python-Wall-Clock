@@ -6,7 +6,7 @@ In this tutorial ([Open in Youtube](https://youtu.be/sGLVtz43Djk)), I'm going to
 # Screenshot
 Analog Wall clock :
 
-![screenshot](screenshort.png)
+![screenshot](clock.png)
 
 # snake.coding
 
